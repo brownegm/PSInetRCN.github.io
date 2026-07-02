@@ -8,9 +8,9 @@ Data submitted to PSInet will become part of the PSInet database. The PSInet dat
 
 Database users can freely share and adapt the data with appropriate credit by:
 
-- Citing the PSInet data publication, or 
+-   Citing the PSInet data publication, or 
 
-- If five or fewer datasets are utilized, citing the PSInet data publication and each individual dataset. In this case, database end-users will also be strongly encouraged to contact the dataset contributors to invite their collaboration on the paper, though this can not be strictly enforced.
+-   If five or fewer datasets are utilized, citing the PSInet data publication and each individual dataset. In this case, database end-users will also be strongly encouraged to contact the dataset contributors to invite their collaboration on the paper, though this can not be strictly enforced.
 
 ## **What this means for database contributors**
 
@@ -18,12 +18,12 @@ Database users can freely share and adapt the data with appropriate credit by:
 
 In exchange for your dataset(s), you and your coauthors will receive:
 
-- Up to two individuals per dataset will be named as co-authors on the PSInet data publication.
+-   Up to two individuals per dataset will be named as co-authors on the PSInet data publication.
 
-- Advanced access to the PSInet database during the one-year embargo period prior to data publication.
+-   Advanced access to the PSInet database during the one-year embargo period prior to data publication.
 
-- Priority access to PSInet activities such as training workshops, conference meet-ups, and the synthesis workshop.
+-   Priority access to PSInet activities such as training workshops, conference meet-ups, and the synthesis workshop.
 
-##Acknowledgements
+## Acknowledgements
 
 Funding for the creation of the PSInet database was provided by the US National Science Foundation administered by the Division of Integrative Organismal Biology via a Research Coordination Grant (#2243900).
