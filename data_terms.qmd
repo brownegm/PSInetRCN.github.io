@@ -1,5 +1,5 @@
 ---
-title: "Data terms of use"
+title: "Data Terms of Use"
 ---
 
 Data submitted to PSInet will become part of the PSInet database. The PSInet database will be subject to a one year embargo, during which time only authors will have access to it. **After this period, the database will be published as an open-access resource with a [CC-By-4.0](https://creativecommons.org/licenses/by/4.0/) license.** 
@@ -23,3 +23,7 @@ In exchange for your dataset(s), you and your coauthors will receive:
 -   Advanced access to the PSInet database during the one-year embargo period prior to data publication.
 
 -   Priority access to PSInet activities such as training workshops, conference meet-ups, and the synthesis workshop.
+
+## Acknowledgements
+
+Funding for the creation of the PSInet database was provided by the US National Science Foundation administered by the Division of Integrative Organismal Biology via a Research Coordination Grant (#2243900).
