@@ -4,7 +4,7 @@
     "href": "submit.html",
     "title": "Submit Data",
     "section": "",
-    "text": "PSInet is a global water potential network designed to close knowledge gaps surrounding the water potential gradients that drive ecosystem water flows and govern many aspects of plant function. As part of that work, we are building an open-access database for time series of plant water potential collected in field research settings, including both discrete measurements made with pressure chambers and continuous measurements enabled by psychrometers, tensiometers, and other emerging technologies."
+    "text": "Data Submission Now Closed\n\n\n\nThank you for your interest in sharing your water potential data with PSInet! Unfortunately, the database had a submission deadline of December 2025.\nWhile the current funding mechanism precludes us from keeping submissions open, please consider registering your dataset using the form below. This will help us keep track of your interest. We may use this information to show community-wide interest in offering another round of submissions.\nBest,\nPSInet Team\nPSInet is a global water potential network designed to close knowledge gaps surrounding the water potential gradients that drive ecosystem water flows and govern many aspects of plant function. As part of that work, we are building an open-access database for time series of plant water potential collected in field research settings, including both discrete measurements made with pressure chambers and continuous measurements enabled by psychrometers, tensiometers, and other emerging technologies."
   },
   {
     "objectID": "submit.html#pre-submission-survey",
@@ -16,21 +16,21 @@
   {
     "objectID": "data_terms.html",
     "href": "data_terms.html",
-    "title": "Data terms of use",
+    "title": "Data Terms of Use",
     "section": "",
     "text": "Data submitted to PSInet will become part of the PSInet database. The PSInet database will be subject to a one year embargo, during which time only authors will have access to it. After this period, the database will be published as an open-access resource with a CC-By-4.0 license."
   },
   {
     "objectID": "data_terms.html#what-this-means-for-database-end-users",
     "href": "data_terms.html#what-this-means-for-database-end-users",
-    "title": "Data terms of use",
+    "title": "Data Terms of Use",
     "section": "What this means for database end users",
-    "text": "What this means for database end users\nDatabase users can freely share and adapt the data with appropriate credit by:\n\nCiting the PSInet data publication and including the following statement in the acknowledgments section: “Funding for the creation of the PSInet database was provided by the US National Science Foundation administered by the Division of Integrative Organismal Biology via a Research Coordination Grant (#2243900).”\nIf five or fewer datasets are utilized, citing the PSInet data publication, each individual dataset, in addition to including the following statement in the acknowledgments section: Funding for the creation of the PSInet database was provided by the US National Science Foundation administered by the Division of Integrative Organismal Biology via a Research Coordination Grant (#2243900).”\n\nIn this case, database end-users will also be strongly encouraged to contact the dataset contributors to invite their collaboration on the paper, though this can not be strictly enforced."
+    "text": "What this means for database end users\nDatabase users can freely share and adapt the data with appropriate credit by:\n\nCiting the PSInet data publication and including the following statement in the acknowledgments section: “Funding for the creation of the PSInet database was provided by the US National Science Foundation administered by the Division of Integrative Organismal Biology via a Research Coordination Grant (#2243900).”\nIf five or fewer datasets are utilized, citing the PSInet data publication, each individual dataset, in addition to including the following statement in the acknowledgments section: “Funding for the creation of the PSInet database was provided by the US National Science Foundation administered by the Division of Integrative Organismal Biology via a Research Coordination Grant (#2243900).”\n\nIn this case, database end-users will also be strongly encouraged to contact the dataset contributors to invite their collaboration on the paper, though this can not be strictly enforced."
   },
   {
     "objectID": "data_terms.html#what-this-means-for-database-contributors",
     "href": "data_terms.html#what-this-means-for-database-contributors",
-    "title": "Data terms of use",
+    "title": "Data Terms of Use",
     "section": "What this means for database contributors",
     "text": "What this means for database contributors\nBefore you submit data, please ensure that you and all relevant data creators have read, understand, and fully agree to the PSInet data use policy (this policy).\nIn exchange for your dataset(s), you and your coauthors will receive:\n\nUp to two individuals per dataset will be named as co-authors on the PSInet data publication.\nAdvanced access to the PSInet database during the one-year embargo period prior to data publication.\nPriority access to PSInet activities such as training workshops, conference meet-ups, and the synthesis workshop."
   },
