@@ -6,7 +6,7 @@ toc-location: left
 ::: callout-warning
 # Data Submission Now Closed
 
-Thank you for your interest in sharing your water potential data with PSInet! Unfortunately, the database had a submission deadline of December 2025.
+Thank you for your interest in sharing your water potential data with PSInet! Unfortunately, our deadline for submission was December 2025.
 
 While the current funding mechanism precludes us from keeping submissions open, please consider registering your dataset using the form below. This will help us keep track of your interest. We may use this information to show community-wide interest in offering another round of submissions.
 
