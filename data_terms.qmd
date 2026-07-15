@@ -25,3 +25,7 @@ In exchange for your dataset(s), you and your coauthors will receive:
 -   Advanced access to the PSInet database during the one-year embargo period prior to data publication.
 
 -   Priority access to PSInet activities such as training workshops, conference meet-ups, and the synthesis workshop.
+
+## Acknowledgements
+
+Funding for the creation of the PSInet database was provided by the US National Science Foundation administered by the Division of Integrative Organismal Biology via a Research Coordination Grant (#2243900).
