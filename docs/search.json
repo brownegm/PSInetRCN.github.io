@@ -25,7 +25,7 @@
     "href": "data_terms.html#what-this-means-for-database-end-users",
     "title": "Data terms of use",
     "section": "What this means for database end users",
-    "text": "What this means for database end users\nDatabase users can freely share and adapt the data with appropriate credit by:\n\nCiting the PSInet data publication, or \nIf five or fewer datasets are utilized, citing the PSInet data publication and each individual dataset. In this case, database end-users will also be strongly encouraged to contact the dataset contributors to invite their collaboration on the paper, though this can not be strictly enforced."
+    "text": "What this means for database end users\nDatabase users can freely share and adapt the data with appropriate credit by:\n\nCiting the PSInet data publication and including the following statement in the acknowledgments section: “Funding for the creation of the PSInet database was provided by the US National Science Foundation administered by the Division of Integrative Organismal Biology via a Research Coordination Grant (#2243900).”\nIf five or fewer datasets are utilized, citing the PSInet data publication, each individual dataset, in addition to including the following statement in the acknowledgments section: Funding for the creation of the PSInet database was provided by the US National Science Foundation administered by the Division of Integrative Organismal Biology via a Research Coordination Grant (#2243900).”\n\nIn this case, database end-users will also be strongly encouraged to contact the dataset contributors to invite their collaboration on the paper, though this can not be strictly enforced."
   },
   {
     "objectID": "data_terms.html#what-this-means-for-database-contributors",
