@@ -17,7 +17,7 @@ lightbox: auto
 
 **Location:** Indiana University - Bloomington, Bloomington, IN, USA
 
-This week-long wokshop convened an international group of over fifty researchers representing a range of institutions and career stages, all engaged in advancing network-enabled science to improve mechanistic and predictive understanding of plant responses to drought. The workshop was primarily supported by the PSInet RCN grant, with one of its core objectives being to introduce the research community to the PSInet database and foster its effective adoption. Additional support from FLUXNET Cooperation Project and Indiana University enabled international participant and an expanded agenda, emphasizing the integration of data across a wide range of observational networks and databases.
+This week-long workshop convened an international group of over fifty researchers representing a range of institutions and career stages, all engaged in advancing network-enabled science to improve mechanistic and predictive understanding of plant responses to drought. The workshop was primarily supported by the PSInet RCN grant, with one of its core objectives being to introduce the research community to the PSInet database and foster its effective adoption. Additional support from FLUXNET Cooperation Project and Indiana University enabled international participant and an expanded agenda, emphasizing the integration of data across a wide range of observational networks and databases.
 
 Key objectives and activities of the workshop included:
 
@@ -65,4 +65,4 @@ On the final day of the workshop, participants gathered to reflect on the weekâ€
 
 The *Network-enabled Understanding of Plant Water Hydraulics in a Changing World workshop:* successfully brought together an interdisciplinary community committed to advancing plant hydraulics research through collaborative, network-enabled science. The combination of plenary talks, hands-on fieldwork, data demonstrations, and dynamic breakout sessions fostered rich scientific exchange and laid the groundwork for ongoing collaboration. With new working groups formed, plans for a distributed graduate seminar underway, and strong interest in integrating data across networks, the workshop not only strengthened existing connections but also created new opportunities for innovation and impact in the field. The enthusiasm and engagement demonstrated by participants highlight a strong foundation for ongoing scientific exchange and network integration beyond the workshop itself.
 
-Many thanks to the workshop organizing committee: Kim Novick, Jessica Guo, Alex Konings, Rafael Poyatos, Julia Green, Bill Hammond, Steve Kannenberg, Daniel Beverly, and Ana Maria Restrepo Acevedo. 
+Many thanks to the workshop organizing committee: Kim Novick, Jessica Guo, Alex Konings, Rafael Poyatos, Julia Green, Bill Hammond, Steve Kannenberg, Daniel Beverly, and Ana Maria Restrepo Acevedo.
