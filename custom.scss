@@ -75,7 +75,7 @@ body { -webkit-font-smoothing: antialiased; }
 /* ── Sidebar ── */
 #quarto-sidebar {
   background: #ffffff;
-  border-right: 1px solid #e2e8e0;
+  border-left: 1px solid #e2e8e0;
 
   .sidebar-section-text {
     font-size: 0.65rem;
@@ -199,7 +199,7 @@ blockquote {
   .callout-title {
     font-family: 'DM Sans', sans-serif;
     font-size: 0.7rem;
-    font-weight: 700;
+    font-weight: 800;
     letter-spacing: 0.08em;
     text-transform: uppercase;
   }
@@ -298,7 +298,7 @@ blockquote {
   /* Name / title */
   .about-title {
     font-family: 'DM Sans' serif;
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: 800;
     letter-spacing: -0.02em;
     color: #252933;
@@ -313,34 +313,34 @@ blockquote {
   }
 
   /* Body text below the image */
-  .about-contents p {
+  .about-contents {
     font-size: 1rem;
     color: #374151;
     line-height: 1.8;
   }
+}
 
-  /* Social / link buttons */
-  .about-links {
-    margin-top: 1.25rem;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-  }
+/* Social / link buttons */
+.about-links {
+  margin-top: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
 
-  .about-link {
-    font-family: 'DM Sans', sans-serif;
-    font-size: 0.8rem;
-    font-weight: 500;
-    color: $green !important;
-    border: 1px solid #a8c8bc !important;
-    border-radius: 6px !important;
-    padding: 0.3rem 0.75rem !important;
-    background: transparent !important;
-    transition: all 0.15s;
+.about-link {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: $green !important;
+  border: 1px solid #a8c8bc !important;
+  border-radius: 6px !important;
+  padding: 0.3rem 0.75rem !important;
+  background: transparent !important;
+  transition: all 0.15s;
 
-    &:hover {
-      background: $sage !important;
-      border-color: $green !important;
-    }
+  &:hover {
+    background: $sage !important;
+    border-color: $green !important;
   }
 }

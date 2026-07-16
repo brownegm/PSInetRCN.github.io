@@ -26,11 +26,6 @@ website:
         - href: posts.qmd
           text: "Posts"
 
-  sidebar:
-    style: "docked"
-    search: true
-    collapse-level: 2
-
   page-footer:
     left: "© 2026 PSInet"
     right:
@@ -51,7 +46,7 @@ format:
     toc: true
     toc-depth: 3
     toc-title: "On this page"
-    toc-location: right
+    toc-location: left
     smooth-scroll: true
     df-print: paged
     fig-align: center
